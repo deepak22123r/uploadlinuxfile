@@ -1,0 +1,11 @@
+E:\projects\Roshni_Work\UploadFileInLinux\UploadFileInLinux\bin\Debug\netcoreapp2.2\UploadFileInLinux.deps.json
+E:\projects\Roshni_Work\UploadFileInLinux\UploadFileInLinux\bin\Debug\netcoreapp2.2\UploadFileInLinux.runtimeconfig.json
+E:\projects\Roshni_Work\UploadFileInLinux\UploadFileInLinux\bin\Debug\netcoreapp2.2\UploadFileInLinux.runtimeconfig.dev.json
+E:\projects\Roshni_Work\UploadFileInLinux\UploadFileInLinux\bin\Debug\netcoreapp2.2\UploadFileInLinux.dll
+E:\projects\Roshni_Work\UploadFileInLinux\UploadFileInLinux\obj\Debug\netcoreapp2.2\UploadFileInLinux.csprojAssemblyReference.cache
+E:\projects\Roshni_Work\UploadFileInLinux\UploadFileInLinux\obj\Debug\netcoreapp2.2\UploadFileInLinux.csproj.CoreCompileInputs.cache
+E:\projects\Roshni_Work\UploadFileInLinux\UploadFileInLinux\obj\Debug\netcoreapp2.2\UploadFileInLinux.AssemblyInfoInputs.cache
+E:\projects\Roshni_Work\UploadFileInLinux\UploadFileInLinux\obj\Debug\netcoreapp2.2\UploadFileInLinux.AssemblyInfo.cs
+E:\projects\Roshni_Work\UploadFileInLinux\UploadFileInLinux\bin\Debug\netcoreapp2.2\UploadFileInLinux.pdb
+E:\projects\Roshni_Work\UploadFileInLinux\UploadFileInLinux\obj\Debug\netcoreapp2.2\UploadFileInLinux.dll
+E:\projects\Roshni_Work\UploadFileInLinux\UploadFileInLinux\obj\Debug\netcoreapp2.2\UploadFileInLinux.pdb
